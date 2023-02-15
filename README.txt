@@ -1,7 +1,4 @@
-
-
-
-## ℹ️ About the Project
+### ℹ️ About the Project
 ---
 
 we have implemented a shell in c programming language on linux which creates a child process and invoking commands are written and executed interactively and in batch. Also Accept, analyze, forks, run, then wait are how ssh works.
@@ -50,4 +47,8 @@ myShell> exit
 
 
 ## Screenshots
+
+![output_with_batch_mode](https://user-images.githubusercontent.com/35831574/218893827-af8b3412-df6e-42ae-ae2b-b3ca8a000f28.png)
+![outuput_interactive_mode](https://user-images.githubusercontent.com/35831574/218893828-9fad4704-141e-487b-bd93-d0507dd4bd00.png)
+
 
