@@ -48,7 +48,8 @@ myShell> exit
 
 ## Screenshots
 
-![output_with_batch_mode](https://user-images.githubusercontent.com/35831574/218893827-af8b3412-df6e-42ae-ae2b-b3ca8a000f28.png)
-![outuput_interactive_mode](https://user-images.githubusercontent.com/35831574/218893828-9fad4704-141e-487b-bd93-d0507dd4bd00.png)
+![output_with_batch_mode](https://user-images.githubusercontent.com/35831574/218892816-6eef6293-6625-4da9-b237-269f517e59b1.png)
+
+![outuput_interactive_mode](https://user-images.githubusercontent.com/35831574/218892817-b42027e2-d17c-464e-a29d-b5e6f619616d.png)
 
 
