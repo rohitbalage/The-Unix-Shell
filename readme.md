@@ -8,7 +8,7 @@ we have implemented a shell in c programming language on linux which creates a c
 <details>
   <summary><b>Compilation instructions</b></summary>
   
-  ### Step-by-step instructions for setting up salease
+  ### Step-by-step instructions 
   
   1. Run the program using  **gcc** 
   2. the previous step would create a exutable file **./testoutputK** 
