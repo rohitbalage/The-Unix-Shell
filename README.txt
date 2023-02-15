@@ -1,10 +1,10 @@
-# group members and contributions
+# group members
 
 Group9
 
-1: Rohit Balage (2831115)  50%
+1: Rohit Balage (2831115)
 
-2: Anish Kumar Singh  (2825846) 50%
+
 
 # project description
 
